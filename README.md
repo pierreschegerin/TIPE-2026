@@ -1,4 +1,4 @@
-# TIPE - Système de suivi d’astres pour l’astrophotographie
+## Système de suivi d’astres pour l’astrophotographie
 
 Projet réalisé dans le cadre du TIPE en CPGE PTSI-PT.
 
